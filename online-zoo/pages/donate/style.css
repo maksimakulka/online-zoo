@@ -311,7 +311,7 @@ body {
 
 .input:focus {
     outline: max(1px, 1px) solid #fe9013;
-    outline-offset: max(1px, 14px);
+    outline-offset: max(1px, 20px);
 }
 
 .input_number {
